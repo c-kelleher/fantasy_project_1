@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap');
+
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+}
+
+.title {
+    font-size: 30px;
+    height: 55px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+    background-color: mediumpurple;
+    text-align: center;
+    padding-top: 1%;
+    color: white;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+
+ h3 {
+    font-family: 'Nunito Sans', sans-serif;
+}
